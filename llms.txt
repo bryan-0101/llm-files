@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Main pages
+Allow: /catering-and-events
+Allow: /contact-us
+Allow: /meal-delivery-service
+Allow: /privacy-policy
+
+# Products (important for AI discovery)
+Allow: /product/
+
+# Sitemap
+Sitemap: https://www.dreamdinnerstogo.com/sitemap.xml
