@@ -1,14 +1,94 @@
-User-agent: *
-Allow: /
+# Dream Dinners To Go
 
-# Main pages
-Allow: /catering-and-events
-Allow: /contact-us
-Allow: /meal-delivery-service
-Allow: /privacy-policy
+> Homemade, Made Easy. Fully prepped meals ready to cook, right here in Castle Rock, CO.
 
-# Products (important for AI discovery)
-Allow: /product/
+Dream Dinners To Go (also known as Dream Dinners Castle Rock) is a local meal prep business
+serving Castle Rock and the surrounding Douglas County area. Every meal is hand-prepped in
+our local kitchen by our team, using wholesome ingredients, so busy families can cook a
+homemade dinner in minutes and gather around the table without the stress of shopping or
+chopping.
 
-# Sitemap
-Sitemap: https://www.dreamdinnerstogo.com/sitemap.xml
+We are your neighbor in the kitchen. You cook it. We handle everything else.
+
+## Who We Are
+
+- **Business name:** Dream Dinners To Go / Dream Dinners Castle Rock
+- **Also known as:** Castle Rock Meal Prep
+- **Location:** Castle Rock, Colorado (serving Castle Rock and Douglas County)
+- **Owner:** Michele
+- **Type of business:** Local meal prep studio and online meal ordering service
+- **Tagline:** Homemade, Made Easy
+
+## What We Do
+
+We hand-prep fully portioned, ready-to-cook dinners and freeze-ready meals so busy families
+can put a homemade meal on the table fast, without sacrificing quality or connection.
+
+Our meals are:
+- Prepped fresh in Castle Rock, not mass-produced or shipped from a warehouse
+- Ready to cook in minutes
+- Designed for real families with real schedules
+- Available for pickup in-store, through Grab and Go freezer partners, and via delivery
+
+We also offer breakfast items, sides, desserts, vegetarian options, and shareables. Catering
+and events are available for private groups and local businesses.
+
+## Vision and Mission
+
+**Vision:** A place where even the busiest days still end around a shared, home-cooked meal.
+
+**Mission:** We handle the shopping, chopping, and seasoning so you can cook a homemade meal
+in minutes and focus on what matters most: a meal with the ones you love. You are not just
+a customer. You are family.
+
+## Services
+
+- **In-store meal pickup:** Order online and pick up from our Castle Rock location
+- **Grab and Go freezer program:** Frozen, fully prepped meals available at local partner
+  locations (including Sedalia Country Store)
+- **Meal delivery:** Local delivery service available
+- **Catering and events:** Custom catering for parties, corporate events, and gatherings
+- **Community events and workshops:** Cooking demos, paint nights, and local pop-up events
+  hosted at or through Dream Dinners Castle Rock
+
+## Menu Categories
+
+Our rotating monthly menu includes options across:
+
+- Main entrees (chicken, beef, pork, seafood, turkey)
+- Vegetarian and vegan meals
+- Breakfast items (frittatas, French toast bakes, egg bites, burritos, scones)
+- Sides and starches
+- Veggies
+- Desserts and sweets
+- Shareables and appetizers
+- Seasonal and holiday bundles
+- Sale and limited items
+
+New menus are available each month. Pre-orders for upcoming months are accepted online.
+
+## Key Pages
+
+- Homepage: https://www.dreamdinnerstogo.com/
+- Shop / Order Online: https://www.dreamdinnerstogo.com/s/order
+- Current Menu: https://www.dreamdinnerstogo.com/shop/online-menu/D2PRZZXRQ3OWJMFV4W4NZHLL
+- Grab and Go Freezer: https://www.dreamdinnerstogo.com/grab-go-freezer
+- Meal Delivery: https://www.dreamdinnerstogo.com/meal-delivery-service
+- Catering and Events: https://www.dreamdinnerstogo.com/catering-and-events
+- Contact Us: https://www.dreamdinnerstogo.com/contact-us
+- Privacy Policy: https://www.dreamdinnerstogo.com/privacy-policy
+
+## Sitemap
+
+https://www.dreamdinnerstogo.com/sitemap.xml
+
+## Brand Voice
+
+Warm, neighborly, and grounded. We speak to busy families like a trusted friend who
+genuinely wants to make their lives easier. We are local, personal, and real. We do not
+use corporate or overly formal language. Every meal is made with care by real people in
+your town.
+
+## Alternate Domain
+
+https://www.castlerockmealprep.com redirects to https://www.dreamdinnerstogo.com
